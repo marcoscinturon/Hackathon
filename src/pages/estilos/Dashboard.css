@@ -1,0 +1,49 @@
+#prueba{
+    margin-left: 500px;
+    margin-top: -180px;
+}
+
+
+#menu{
+position: absolute;
+width: 289px;
+height: 789px;
+left: 0px;
+top: 65px;
+
+background: #003E5B;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+DropdownToggle {
+    width: 234px;
+    box-sizing: border-box;
+    
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgb(220, 253, 241);
+    overflow: auto;
+    padding-top: 50;
+}
+
+.navbar img {
+    float: left;
+    padding: 5px;
+    width: 4%;
+    height: 4%
+}
+
+  /* Navbar links */
+.navbar a {
+    float: right;
+    text-align: center;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Helvetica;
+}

@@ -1,0 +1,106 @@
+#landing_navbar{
+    width: 700px;
+    height: 800px;
+    position: absolute;
+    background-color:#DCFDF1 ;
+    border: #DCFDF1;
+    
+}
+
+#navbar_logo{
+    position: relative;
+    width: 500px;
+    height: 600px;
+    margin-left: 100px;
+    margin-top: 60px;
+    display: block;
+    overflow: hidden;
+}
+
+#registro{
+    position: relative;
+    width: 750px;
+    height: 500px;
+    margin-left: 900px;
+    margin-top: -650px;
+}
+
+#titulo{
+    color: rgb(5, 5, 5);
+    font-size: 40px;
+    font-style: helvetica;  
+}
+
+#sub{
+    margin-left: 00px;
+    margin-top: -40px;
+    color: rgb(14, 13, 13);
+    font-size: 15px;
+}
+
+#apellido{
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: -80px;
+    font-style: helvetica; 
+}
+#Apellidos{
+    width: 180px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 00px;
+    color: rgb(14, 13, 13);
+    font-style: helvetica; 
+}
+
+#la{
+    width: 380px;
+    height: 30px;
+    margin-left: 0px;
+    margin-top: -4%;
+}
+#lo{
+    width: 180px;
+    height: 30px;
+    margin-left: 0px;
+    margin-top: -0%; 
+}
+#btn_enviar_registro{
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    margin-left: -270px;
+    margin-top: 80px;
+    font-size: 30px;
+    background-color: #1DE8C3;
+    color: rgb(250, 248, 248);
+    font-style: helvetica; 
+}
+
+#btn_volver{
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: 120px;
+    font-size: 30px;
+    color: rgb(246, 244, 244);
+    background-color: #00397D ;
+    font-style: helvetica; 
+   
+}
+#grupo{
+
+    color: rgb(5, 5, 5);
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 200px;
+    font-style: helvetica; 
+    
+}
+#link_volver{
+    color: #DCFDF1;
+    font-style: helvetica; 
+}
+

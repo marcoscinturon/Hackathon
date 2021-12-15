@@ -1,0 +1,105 @@
+.navbar {
+    width: 100%;
+    background-color: rgb(220, 253, 241);
+    overflow: auto;
+    padding-top: 50;
+}
+
+.navbar img {
+    float: left;
+    padding: 5px;
+    width: 4%;
+    height: 4%
+}
+
+  /* Navbar links */
+.navbar a {
+    float: right;
+    text-align: center;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+
+ul[id="formulario"] {
+    list-style-type: none;
+    position: relative;
+    align-items: center;
+
+}
+
+input, select{
+
+    
+    width: 234px;
+    height: 28px;
+    left: calc(50% - 234px/2);
+    top: calc(50% - 28px/2 - 50px);
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+
+    box-sizing: border-box;
+
+}
+
+.botonMapa {
+    
+    align-items: center;
+    
+    justify-content: center;
+    width: 77px;
+    height: 42px;
+    left: 248px;
+    top: 654px;
+
+    /* blue/600 */
+
+    background: #1C64F2;
+    /* blue/200 */
+
+    border: 3px solid #C3DDFD;
+    border-radius: 12px;
+}
+
+.botonEnviar {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 25px;
+
+    position: static;
+    width: 99px;
+    height: 50px;
+    left: 422px;
+    top: 753px;
+
+    /* blue/600 */
+
+    background: #1C64F2;
+    /* blue/200 */
+
+    border: 3px solid #C3DDFD;
+    border-radius: 12px;
+    }
+
+
+
+
+div[id="senal"] {
+    position: absolute;
+    width: 287px;
+    height: 489px;
+    left: calc(50% - 287px/2);
+    top: calc(50% - 489px/2 - 44px);
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+
