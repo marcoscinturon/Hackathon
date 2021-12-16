@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Hackathon/static/css/main.6e90c475.chunk.css",
+    "main.js": "/Hackathon/static/js/main.07584f65.chunk.js",
+    "main.js.map": "/Hackathon/static/js/main.07584f65.chunk.js.map",
+    "runtime-main.js": "/Hackathon/static/js/runtime-main.0af3dd94.js",
+    "runtime-main.js.map": "/Hackathon/static/js/runtime-main.0af3dd94.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Hackathon/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ab9cea1c.chunk.js": "/Hackathon/static/js/2.ab9cea1c.chunk.js",
+    "static/js/2.ab9cea1c.chunk.js.map": "/Hackathon/static/js/2.ab9cea1c.chunk.js.map",
+    "static/js/3.ea85c275.chunk.js": "/Hackathon/static/js/3.ea85c275.chunk.js",
+    "static/js/3.ea85c275.chunk.js.map": "/Hackathon/static/js/3.ea85c275.chunk.js.map",
+    "index.html": "/Hackathon/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Hackathon/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6e90c475.chunk.css.map": "/Hackathon/static/css/main.6e90c475.chunk.css.map",
+    "static/js/2.ab9cea1c.chunk.js.LICENSE.txt": "/Hackathon/static/js/2.ab9cea1c.chunk.js.LICENSE.txt",
+    "static/media/Daco_6009829.271f6dd0.png": "/Hackathon/static/media/Daco_6009829.271f6dd0.png",
+    "static/media/image_presentation.140ca0f2.png": "/Hackathon/static/media/image_presentation.140ca0f2.png",
+    "static/media/logo.2c5ec32a.png": "/Hackathon/static/media/logo.2c5ec32a.png",
+    "static/media/pngegg.e2a65592.png": "/Hackathon/static/media/pngegg.e2a65592.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af3dd94.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ab9cea1c.chunk.js",
+    "static/css/main.6e90c475.chunk.css",
+    "static/js/main.07584f65.chunk.js"
+  ]
+}
